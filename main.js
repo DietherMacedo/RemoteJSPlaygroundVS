@@ -24,4 +24,3 @@ console.log(boolean)
 
 console.log(numero,string,boolean);
 console.log(numero+string+boolean);
-console.log(numero + ", " + string + ", " + boolean);
