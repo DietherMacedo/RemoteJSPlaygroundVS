@@ -21,6 +21,3 @@ let boolean = false
 console.log(numero)
 console.log(string)
 console.log(boolean)
-
-console.log(numero,string,boolean);
-console.log(numero+string+boolean);
