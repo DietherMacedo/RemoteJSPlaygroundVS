@@ -4,3 +4,4 @@ function cmtoin( a, b = 2.54 ) {
 cmtoin (15)
 
 console.log(cmtoin( a, b = 2.54 ))
+
